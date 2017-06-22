@@ -1,0 +1,5 @@
+{
+	"plutoBackendURL" : "http://localhost:27751",
+	"omniscientUrl" : "http://localhost:27750",
+	"persephoneUrl" : "http://localhost:27761"
+}
